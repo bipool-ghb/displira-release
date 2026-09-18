@@ -2,11 +2,11 @@
   "product": "Displira Player",
   "platform": "firetv",
   "version": "1.1.0",
-  "version_code": 3,
+  "version_code": 4,
   "package": "com.displayra.player.firetv",
   "apk_url": "https://download.displira.com/displira.apk",
-  "versioned_apk_url": "https://download.displira.com/releases/displira-player-1.1.0-firetv.apk",
-  "sha256": "399d2b97d0413d7b321a9423494e52c80122b44a5e83638d320eecd4c908539c",
+  "versioned_apk_url": "https://download.displira.com/releases/displira-player-1.1.0-firetv-v4.apk",
+  "sha256": "907def1e091730ef7f9e8a9417f733669ce4a7738264dae8c5144fb71a14abba",
   "minimum_android_sdk": 22,
-  "released_at": "2026-09-18T08:37:00Z"
+  "released_at": "2026-09-18T09:40:00Z"
 }
